@@ -17,7 +17,9 @@ public class Unit {
 		
 	}
 	
-	public void 
+	public void use_skill() {
+		
+	}
 	
 	public String getName() {
 		return name;
